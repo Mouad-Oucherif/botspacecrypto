@@ -72,9 +72,7 @@ str_in = """
     +++ 🌙 Melhorando nossas noites de sono 🌙 +++
     +++ Se te ajudamos, por favor contribua 😊🚀++
     ++++++++++++ SPG SPE BCOIN BUSD BNB +++++++++++
-    + 0x73933b679F940ea7352c3895852501e3044FE855 ++
-    ++++++++++++++++ Pix key ++++++++++++++++++++++
-    ++++ 5f3d220c-a2a3-4db2-bfb2-30ae0533e240 +++++
+    + 0x6BEFcE1410236680BDbF3c2328138E82A0233655++
 
     * Algumas configurações podem ser alteradas em 
     settings.yaml
